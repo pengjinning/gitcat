@@ -88,7 +88,7 @@
 
 - [youtube-dl-下载视频](https://github.com/ytdl-org/youtube-dl/)
 
-<!-- 微语打字 购买域名：51dazi.cn -->
+<!--  -->
 - [键盘打字-记单词](https://github.com/RealKai42/qwerty-learner)
 
 ## 2023-12-07
