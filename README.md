@@ -82,7 +82,7 @@
 - [voice-assistant](htps://github.com/linyiLYi/voice-assistant)
 
 <!-- 开发任务列表 -->
-- <img src="./images/shanguan.png" width="700" />
+<!-- - <img src="./images/shanguan.png" width="700" /> -->
 
 ## 2023-12-11
 
