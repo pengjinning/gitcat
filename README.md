@@ -13,6 +13,10 @@
 - [笔记](https://github.com/streetwriters/notesnook)
 - [笔记](https://github.com/vincode-io/Zavala)
 - [笔记](https://github.com/zadam/trilium)
+- [笔记](https://github.com/laurent22/joplin)
+
+<!-- GPT -->
+- [BasicChatGPT](https://github.com/ynagatomo/BasicChatGPT)
 
 ## 2023-12-14
 
