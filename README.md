@@ -3,6 +3,7 @@
 ## 2023-12-20
 
 - [Records what you do so that you can know how you've spent your time-时间跟踪软件](https://github.com/ActivityWatch/activitywatch)
+- [Mac Cleaner-清理电脑](https://github.com/Kevin-De-Koninck/Clean-Me/fork)
 
 ## 2023-12-16
 
