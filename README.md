@@ -1,5 +1,9 @@
 # 开源学习日志
 
+## 2023-12-20
+
+- [Records what you do so that you can know how you've spent your time-时间跟踪软件](https://github.com/ActivityWatch/activitywatch)
+
 ## 2023-12-16
 
 - [SwiftUI-开发框架](https://github.com/pengjinning/clean-architecture-swiftui)
