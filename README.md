@@ -4,6 +4,8 @@
 
 - [Records what you do so that you can know how you've spent your time-时间跟踪软件](https://github.com/ActivityWatch/activitywatch)
 - [Mac Cleaner-清理电脑](https://github.com/Kevin-De-Koninck/Clean-Me/fork)
+- [Mac清理](https://github.com/alienator88/Pearcleaner/)
+- [Mac清理APP](https://github.com/davunt/app-eraser)
 
 ## 2023-12-16
 
