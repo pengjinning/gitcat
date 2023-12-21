@@ -153,10 +153,11 @@
 
 ## 2023-10-17
 
-- 重点关注：[聊天插件] <https://github.com/OvidijusParsiunas/deep-chat>
+- [聊天插件](https://github.com/OvidijusParsiunas/deep-chat)
 - [拖拽式构建-可视化构建机器人]：<https://github.com/baptisteArno/typebot.io>
-- 开源在线客服系统： <https://github.com/chatwoot/chatwoot>
-- 开源问卷&意见反馈：<https://github.com/formbricks/formbricks>
+- [chatwoot-开源在线客服](https://github.com/chatwoot/chatwoot)
+- [Tiledesk-开源在线客服](https://github.com/Tiledesk)
+- [Formbrick-开源问卷&意见反馈](https://github.com/formbricks/formbricks)
 
 ## 2023-10-16
 
