@@ -1,5 +1,13 @@
 # 开源学习日志
 
+## 2023-12-21
+
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+- [Foocus](https://github.com/lllyasviel/Fooocus)
+- [This repo collects leaked prompts of GPTs.](https://github.com/linexjlin/GPTs)
+
 ## 2023-12-20
 
 - [Records what you do so that you can know how you've spent your time-时间跟踪软件](https://github.com/ActivityWatch/activitywatch)
