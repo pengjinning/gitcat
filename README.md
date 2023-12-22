@@ -1,5 +1,21 @@
 # 开源学习日志
 
+## 置顶
+
+- [typebot.io-可视化构建机器人]：<https://github.com/baptisteArno/typebot.io>
+- [chatwoot-开源在线客服](https://github.com/chatwoot/chatwoot)
+- [Tiledesk-开源在线客服](https://github.com/Tiledesk)
+- [Formbrick-开源问卷&意见反馈](https://github.com/formbricks/formbricks)
+- [聊天插件](https://github.com/OvidijusParsiunas/deep-chat)
+- [知识库问答系统]：<https://github.com/danswer-ai/danswer>
+- [拖拽式构建-可视化问答机器人]：<https://github.com/FlowiseAI/Flowise>
+- 基于GPT和开源LLMs构建本地知识库：<https://github.com/StanGirard/quivr>
+- 文档问答：<https://github.com/pengjinning/DocsGPT>
+- LLM AI客服SAAS: <https://github.com/pengjinning/OpenChat>
+- TileDesk: <https://github.com/Tiledesk/tiledesk>
+- HubSpot Alternative: <https://github.com/erxes/erxes>
+- 微软PromptFlow <https://github.com/pengjinning/promptflow>
+
 ## 2023-12-21
 
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
@@ -7,6 +23,12 @@
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 - [Foocus](https://github.com/lllyasviel/Fooocus)
 - [This repo collects leaked prompts of GPTs.](https://github.com/linexjlin/GPTs)
+
+<!--  -->
+- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
+
+<!--  -->
+- [VideoToGif](https://github.com/sindresorhus/Gifski)
 
 ## 2023-12-20
 
@@ -36,11 +58,13 @@
 ## 2023-12-14
 
 <!-- 快捷键 -->
+- [牛人](https://sindresorhus.com/apps)
 - [快捷键-菜单](https://github.com/jacklandrin/OnlySwitch)
 - [Dozer](https://github.com/Mortennn/Dozer)
 - [hidden](https://github.com/dwarvesf/hidden)
 - [KeyboardCowboy-快捷键](https://github.com/zenangst/KeyboardCowboy)
-- [快捷键](https://github.com/sindresorhus/Actions)
+- [KeyboardShortcuts-快捷键](https://github.com/sindresorhus/KeyboardShortcuts)
+- [Actions-快捷键](https://github.com/sindresorhus/Actions)
 
 <!-- 壁纸 -->
 - [Mac壁纸引擎](https://github.com/haren724/wallpaper-player-mac)
@@ -106,6 +130,7 @@
 ## 2023-12-11
 
 - [youtube-dl-下载视频](https://github.com/ytdl-org/youtube-dl/)
+- [小红书视频-下载](https://github.com/JoeanAmier/XHS-Downloader)
 
 <!--  -->
 - [键盘打字-记单词](https://github.com/RealKai42/qwerty-learner)
@@ -146,30 +171,15 @@
 
 ## 2023-10-19
 
-- [知识库问答系统]：<https://github.com/danswer-ai/danswer>
-- [拖拽式构建-可视化问答机器人]：<https://github.com/FlowiseAI/Flowise>
-- 基于GPT和开源LLMs构建本地知识库：<https://github.com/StanGirard/quivr>
 - [MemGPT]<https://github.com/cpacker/MemGPT>
 
-## 2023-10-17
-
-- [聊天插件](https://github.com/OvidijusParsiunas/deep-chat)
-- [拖拽式构建-可视化构建机器人]：<https://github.com/baptisteArno/typebot.io>
-- [chatwoot-开源在线客服](https://github.com/chatwoot/chatwoot)
-- [Tiledesk-开源在线客服](https://github.com/Tiledesk)
-- [Formbrick-开源问卷&意见反馈](https://github.com/formbricks/formbricks)
-
 ## 2023-10-16
-
-- 重点关注：微软PromptFlow <https://github.com/pengjinning/promptflow>
 
 ## 2023-10-09
 
 - [产品分析]：<https://github.com/PostHog/posthog>
 
 ## 2023-10-06
-
-- 重点关注：文档问答：<https://github.com/pengjinning/DocsGPT>
 
 ## 2023-10-03
 
@@ -186,9 +196,6 @@
 
 ## 2023-09-23
 
-- LLM AI客服SAAS: <https://github.com/pengjinning/OpenChat>
-- TileDesk: <https://github.com/Tiledesk/tiledesk>
-- HubSpot Alternative: <https://github.com/erxes/erxes>
 - 文档对接LLM: <https://documate.site/getting-started/>
 
 ## 2023-09-20
