@@ -124,16 +124,19 @@
 <!-- 大模型本地化 -->
 - [voice-assistant](htps://github.com/linyiLYi/voice-assistant)
 
-<!-- 开发任务列表 -->
-<!-- - <img src="./images/shanguan.png" width="700" /> -->
-
 ## 2023-12-11
 
 - [youtube-dl-下载视频](https://github.com/ytdl-org/youtube-dl/)
 - [小红书视频-下载](https://github.com/JoeanAmier/XHS-Downloader)
 
-<!--  -->
+<!-- 打字 -->
 - [键盘打字-记单词](https://github.com/RealKai42/qwerty-learner)
+- [打字](https://github.com/zyronon/typing-word)
+- [打字](https://github.com/gamer-ai/eletypes-frontend)
+- [中国古诗词](https://github.com/chinese-poetry/chinese-poetry)
+- [新华字典](https://github.com/pwxcoo/chinese-xinhua)
+- [汉字工具库](https://github.com/theajack/cnchar)
+- [词典](https://github.com/kajweb/dict)
 
 ## 2023-12-07
 
