@@ -33,8 +33,15 @@
 
 ## 2023-12-20
 
-- [Records what you do so that you can know how you've spent your time-时间跟踪软件](https://github.com/ActivityWatch/activitywatch)
+<!-- 时间跟踪 -->
+- [activitywatch-软件使用时长统计](https://github.com/ActivityWatch/activitywatch)
+- [kimai-软件使用时长统计](https://github.com/kimai/kimai)
+- [wakatime-软件使用时长统计](https://github.com/wakatime/vscode-wakatime)
+- [WakaTime-compatible backend](https://github.com/muety/wakapi)
+- [trokler-时间跟踪](https://github.com/MayGo/tockler)
+- [toggldesktop](https://github.com/toggl-open-source/toggldesktop)
 
+<!-- mac清理 -->
 - [Mac Cleaner-清理电脑](https://github.com/Kevin-De-Koninck/Clean-Me/fork)
 - [Mac清理](https://github.com/alienator88/Pearcleaner/)
 - [Mac清理APP](https://github.com/davunt/app-eraser)
@@ -144,12 +151,6 @@
 ## 2023-12-07
 
 - [uptime-监控网站状态](https://github.com/upptime/upptime)
-
-## 2023-12-05
-
-- [activitywatch-软件使用时长统计](https://github.com/ActivityWatch/activitywatch)
-- [kimai-软件使用时长统计](https://github.com/kimai/kimai)
-- [wakatime-软件使用时长统计](https://github.com/wakatime/vscode-wakatime)
 
 ## 2023-11-26
 
