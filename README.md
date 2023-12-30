@@ -26,6 +26,7 @@
 
 <!--  -->
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
 <!--  -->
 - [VideoToGif](https://github.com/sindresorhus/Gifski)
@@ -33,6 +34,7 @@
 ## 2023-12-20
 
 - [Records what you do so that you can know how you've spent your time-时间跟踪软件](https://github.com/ActivityWatch/activitywatch)
+
 - [Mac Cleaner-清理电脑](https://github.com/Kevin-De-Koninck/Clean-Me/fork)
 - [Mac清理](https://github.com/alienator88/Pearcleaner/)
 - [Mac清理APP](https://github.com/davunt/app-eraser)
@@ -128,6 +130,7 @@
 
 - [youtube-dl-下载视频](https://github.com/ytdl-org/youtube-dl/)
 - [小红书视频-下载](https://github.com/JoeanAmier/XHS-Downloader)
+- [tiktok视频-下载](https://github.com/JoeanAmier/TikTokDownloader)
 
 <!-- 打字 -->
 - [键盘打字-记单词](https://github.com/RealKai42/qwerty-learner)
