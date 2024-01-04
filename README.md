@@ -16,6 +16,21 @@
 - HubSpot Alternative: <https://github.com/erxes/erxes>
 - 微软PromptFlow <https://github.com/pengjinning/promptflow>
 
+## 2023-12-31
+
+- [网站分析](https://github.com/plausible/analytics)
+- [短连接](https://github.com/dubinc/dub)
+
+<!-- 语音识别 tts, stt -->
+- [语音识别](https://github.com/ggerganov/whisper.cpp)
+- [语音转文字 Text-to-Speech](https://github.com/coqui-ai/TTS)
+- [微软语音合成工具-electron](https://github.com/LokerL/tts-vue)
+- [微软tts-安卓](https://github.com/ag2s20150909/TTS)
+- [实时流式语音识别-PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)
+- [ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)
+- [离线语音识别-openai whisper](https://github.com/chidiwilliams/buzz)
+- [echo](https://github.com/rerender2021/echo)
+
 ## 2023-12-21
 
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
@@ -27,6 +42,7 @@
 <!--  -->
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 <!--  -->
 - [VideoToGif](https://github.com/sindresorhus/Gifski)
@@ -42,7 +58,7 @@
 - [toggldesktop](https://github.com/toggl-open-source/toggldesktop)
 
 <!-- mac清理 -->
-- [Mac Cleaner-清理电脑](https://github.com/Kevin-De-Koninck/Clean-Me/fork)
+- [Mac Cleaner-清理电脑](https://github.com/Kevin-De-Koninck/Clean-Me)
 - [Mac清理](https://github.com/alienator88/Pearcleaner/)
 - [Mac清理APP](https://github.com/davunt/app-eraser)
 
@@ -126,6 +142,7 @@
 - [cap](https://github.com/cap-so/cap)
 - [kap](https://github.com/wulkano/Kap)
 - [captura](https://github.com/MathewSachin/Captura)
+- [screenity](https://github.com/alyssaxuu/screenity)
 
 <!-- 投屏 -->
 - [scrcpy-远程控制](https://github.com/Genymobile/scrcpy)
@@ -136,17 +153,19 @@
 ## 2023-12-11
 
 - [youtube-dl-下载视频](https://github.com/ytdl-org/youtube-dl/)
+- [YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS)
 - [小红书视频-下载](https://github.com/JoeanAmier/XHS-Downloader)
 - [tiktok视频-下载](https://github.com/JoeanAmier/TikTokDownloader)
 
 <!-- 打字 -->
-- [键盘打字-记单词](https://github.com/RealKai42/qwerty-learner)
+- [qwerty-learner-键盘打字记单词](https://github.com/RealKai42/qwerty-learner)
 - [打字](https://github.com/zyronon/typing-word)
 - [打字](https://github.com/gamer-ai/eletypes-frontend)
 - [中国古诗词](https://github.com/chinese-poetry/chinese-poetry)
 - [新华字典](https://github.com/pwxcoo/chinese-xinhua)
 - [汉字工具库](https://github.com/theajack/cnchar)
 - [词典](https://github.com/kajweb/dict)
+- [keybr](https://github.com/aradzie/keybr.com)
 
 ## 2023-12-07
 
@@ -214,10 +233,6 @@
 ## 2023-09-18
 
 - 基于大模型出题考试 <https://github.com/codeacme17/examor.git>
-
-## 2023-09-15
-
-- 语音识别：<https://github.com/ggerganov/whisper.cpp>
 
 ## 2023-09-14
 
