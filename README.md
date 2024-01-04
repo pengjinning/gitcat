@@ -2,19 +2,18 @@
 
 ## 置顶
 
-- [typebot.io-可视化构建机器人]：<https://github.com/baptisteArno/typebot.io>
+- [typebot.io-可视化构建机器人](https://github.com/baptisteArno/typebot.io)
 - [chatwoot-开源在线客服](https://github.com/chatwoot/chatwoot)
 - [Tiledesk-开源在线客服](https://github.com/Tiledesk)
 - [Formbrick-开源问卷&意见反馈](https://github.com/formbricks/formbricks)
 - [聊天插件](https://github.com/OvidijusParsiunas/deep-chat)
-- [知识库问答系统]：<https://github.com/danswer-ai/danswer>
-- [拖拽式构建-可视化问答机器人]：<https://github.com/FlowiseAI/Flowise>
-- 基于GPT和开源LLMs构建本地知识库：<https://github.com/StanGirard/quivr>
-- 文档问答：<https://github.com/pengjinning/DocsGPT>
-- LLM AI客服SAAS: <https://github.com/pengjinning/OpenChat>
-- TileDesk: <https://github.com/Tiledesk/tiledesk>
-- HubSpot Alternative: <https://github.com/erxes/erxes>
-- 微软PromptFlow <https://github.com/pengjinning/promptflow>
+- [知识库问答系统](https://github.com/danswer-ai/danswer)
+- [拖拽式构建-可视化问答机器人](https://github.com/FlowiseAI/Flowise)
+- [基于GPT和开源LLMs构建本地知识库](https://github.com/StanGirard/quivr)
+- [文档问答](https://github.com/pengjinning/DocsGPT)
+- [LLM AI客服SAAS](https://github.com/pengjinning/OpenChat)
+- [HubSpot Alternative](https://github.com/erxes/erxes)
+- [微软 PromptFlow](https://github.com/pengjinning/promptflow)
 
 ## 2023-12-31
 
