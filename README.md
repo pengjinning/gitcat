@@ -15,24 +15,32 @@
 - [HubSpot Alternative](https://github.com/erxes/erxes)
 - [微软 PromptFlow](https://github.com/pengjinning/promptflow)
 
-## 2024-01-11
+## 题库
 
-<!-- 题库 -->
 - [awesome-interview-questions](https://github.com/pengjinning/awesome-interview-questions)
+
+## 团队协作
+
+- [zulip](https://github.com/zulip/zulip)
+- [mattermost](https://github.com/mattermost/mattermost)
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 
 ## 2023-12-31
 
 - [网站分析](https://github.com/plausible/analytics)
 - [短连接](https://github.com/dubinc/dub)
 
-<!-- OCR -->
+## OCR
+
 - [awesome-ocr](https://github.com/kba/awesome-ocr)
 - [离线OCR](https://github.com/hiroi-sora/Umi-OCR)
 - [图片文字识别提取](https://github.com/JaidedAI/EasyOCR)
 - [tesseract](https://github.com/tesseract-ocr/tesseract)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+- [ocr-pwa](https://github.com/plantree/ocr-pwa)
 
-<!-- 语音识别 tts, stt -->
+## 语音识别 tts, stt
+
 - [语音识别](https://github.com/ggerganov/whisper.cpp)
 - [语音转文字 Text-to-Speech](https://github.com/coqui-ai/TTS)
 - [微软语音合成工具-electron](https://github.com/LokerL/tts-vue)
@@ -42,7 +50,7 @@
 - [离线语音识别-openai whisper](https://github.com/chidiwilliams/buzz)
 - [echo](https://github.com/rerender2021/echo)
 
-## 2023-12-21
+## prompts && GPT
 
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -54,13 +62,13 @@
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [BasicChatGPT](https://github.com/ynagatomo/BasicChatGPT)
 
 <!--  -->
 - [VideoToGif](https://github.com/sindresorhus/Gifski)
 
-## 2023-12-20
+## 时间跟踪
 
-<!-- 时间跟踪 -->
 - [activitywatch-软件使用时长统计](https://github.com/ActivityWatch/activitywatch)
 - [kimai-软件使用时长统计](https://github.com/kimai/kimai)
 - [wakatime-软件使用时长统计](https://github.com/wakatime/vscode-wakatime)
@@ -68,7 +76,8 @@
 - [trokler-时间跟踪](https://github.com/MayGo/tockler)
 - [toggldesktop](https://github.com/toggl-open-source/toggldesktop)
 
-<!-- mac清理 -->
+## mac清理
+
 - [Mac Cleaner-清理电脑](https://github.com/Kevin-De-Koninck/Clean-Me)
 - [Mac清理](https://github.com/alienator88/Pearcleaner/)
 - [Mac清理APP](https://github.com/davunt/app-eraser)
@@ -82,19 +91,16 @@
 - [相册照片云同步](https://github.com/immich-app/immich)
 - [习惯养成](https://github.com/xpavle00/Habo)
 
-<!-- 笔记 -->
+## 笔记
+
 - [笔记](https://github.com/streetwriters/notesnook)
 - [笔记](https://github.com/vincode-io/Zavala)
 - [笔记](https://github.com/zadam/trilium)
 - [笔记](https://github.com/laurent22/joplin)
 - [笔记](https://github.com/glushchenko/fsnotes)
 
-<!-- GPT -->
-- [BasicChatGPT](https://github.com/ynagatomo/BasicChatGPT)
+## 快捷键
 
-## 2023-12-14
-
-<!-- 快捷键 -->
 - [牛人](https://sindresorhus.com/apps)
 - [快捷键-菜单](https://github.com/jacklandrin/OnlySwitch)
 - [Dozer](https://github.com/Mortennn/Dozer)
@@ -103,7 +109,8 @@
 - [KeyboardShortcuts-快捷键](https://github.com/sindresorhus/KeyboardShortcuts)
 - [Actions-快捷键](https://github.com/sindresorhus/Actions)
 
-<!-- 壁纸 -->
+## 壁纸
+
 - [Mac壁纸引擎](https://github.com/haren724/wallpaper-player-mac)
 - [Mac壁纸引擎](https://github.com/nhiroyasu/wallpaper-play)
 - [Mac壁纸引擎](https://github.com/pengjinning/wallpapper)
@@ -119,14 +126,11 @@
 - [ios壁纸](https://github.com/superjohan/deko)
 - [flutter壁纸](https://github.com/KarlMathuthu/Wallpaper-verse)
   
-<!--  -->
+## 传文件
+
 - [传文件](https://github.com/pengjinning/airdash)
 
-## 2023-12-13
-
-- [flameshot-截图](https://github.com/flameshot-org/flameshot)
-
-## 2023-12-12
+## 阅读器
 
 - [阅读器](https://github.com/koreader/koreader)
 - [阅读器](https://github.com/koodo-reader/koodo-reader)
@@ -139,7 +143,8 @@
 - [userscripts](https://github.com/quoid/userscripts)
 - [github script](https://github.com/Mottie/GitHub-userscripts)
 
-<!-- 剪贴板 -->
+## 剪贴板
+
 - [copyQ](https://github.com/hluk/CopyQ)
 - [Flycut](https://github.com/TermiT/Flycut)
 - [Maccy](https://github.com/p0deje/Maccy)
@@ -148,7 +153,8 @@
 - [Clipboard](https://github.com/Slackadays/Clipboard)
 - [Clipy](https://github.com/Clipy/Clipy)
 
-<!-- 截屏录屏软件 -->
+## 截屏录屏软件
+
 - [eSearch](https://github.com/xushengfeng/eSearch)
 - [kooha](https://github.com/SeaDve/Kooha)
 - [cap](https://github.com/cap-so/cap)
@@ -158,6 +164,7 @@
 - [pear-rec](https://github.com/027xiguapi/pear-rec)
 - [screenshots](https://github.com/nashaofu/screenshots)
 - [electron-capture](https://github.com/xudeming208/electron-capture)
+- [flameshot-截图](https://github.com/flameshot-org/flameshot)
 
 <!-- 投屏 -->
 - [scrcpy-远程控制](https://github.com/Genymobile/scrcpy)
