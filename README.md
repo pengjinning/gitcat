@@ -15,10 +15,22 @@
 - [HubSpot Alternative](https://github.com/erxes/erxes)
 - [微软 PromptFlow](https://github.com/pengjinning/promptflow)
 
+## 2024-01-11
+
+<!-- 题库 -->
+- [awesome-interview-questions](https://github.com/pengjinning/awesome-interview-questions)
+
 ## 2023-12-31
 
 - [网站分析](https://github.com/plausible/analytics)
 - [短连接](https://github.com/dubinc/dub)
+
+<!-- OCR -->
+- [awesome-ocr](https://github.com/kba/awesome-ocr)
+- [离线OCR](https://github.com/hiroi-sora/Umi-OCR)
+- [图片文字识别提取](https://github.com/JaidedAI/EasyOCR)
+- [tesseract](https://github.com/tesseract-ocr/tesseract)
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 
 <!-- 语音识别 tts, stt -->
 - [语音识别](https://github.com/ggerganov/whisper.cpp)
@@ -75,6 +87,7 @@
 - [笔记](https://github.com/vincode-io/Zavala)
 - [笔记](https://github.com/zadam/trilium)
 - [笔记](https://github.com/laurent22/joplin)
+- [笔记](https://github.com/glushchenko/fsnotes)
 
 <!-- GPT -->
 - [BasicChatGPT](https://github.com/ynagatomo/BasicChatGPT)
@@ -135,7 +148,7 @@
 - [Clipboard](https://github.com/Slackadays/Clipboard)
 - [Clipy](https://github.com/Clipy/Clipy)
 
-<!-- 录屏软件 -->
+<!-- 截屏录屏软件 -->
 - [eSearch](https://github.com/xushengfeng/eSearch)
 - [kooha](https://github.com/SeaDve/Kooha)
 - [cap](https://github.com/cap-so/cap)
@@ -186,7 +199,6 @@
 ## 2023-11-03
 
 - [leetcodevscode]<https://github.com/LeetCode-OpenSource/vscode-leetcode>
-- [离线OCR]<https://github.com/hiroi-sora/Umi-OCR>
 - [GenerativeAI入门]<https://github.com/microsoft/generative-ai-for-beginners>
 
 ## 2023-10-21
@@ -286,4 +298,3 @@
 - 汉字拼音笔画js库: <https://github.com/theajack/cnchar>
 - 物体旋转 opencv <https://opencv.org/>
 - opengl 3d <https://www.opengl.org/>
-- 图片文字识别提取 <https://github.com/JaidedAI/EasyOCR>
