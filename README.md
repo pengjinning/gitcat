@@ -155,6 +155,8 @@
 - [kap](https://github.com/wulkano/Kap)
 - [captura](https://github.com/MathewSachin/Captura)
 - [screenity](https://github.com/alyssaxuu/screenity)
+- [pear-rec](https://github.com/027xiguapi/pear-rec)
+- [screenshots](https://github.com/nashaofu/screenshots)
 
 <!-- 投屏 -->
 - [scrcpy-远程控制](https://github.com/Genymobile/scrcpy)
