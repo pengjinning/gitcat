@@ -15,21 +15,6 @@
 - [HubSpot Alternative](https://github.com/erxes/erxes)
 - [微软 PromptFlow](https://github.com/pengjinning/promptflow)
 
-## 题库
-
-- [awesome-interview-questions](https://github.com/pengjinning/awesome-interview-questions)
-
-## 团队协作
-
-- [zulip](https://github.com/zulip/zulip)
-- [mattermost](https://github.com/mattermost/mattermost)
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-
-## 2023-12-31
-
-- [网站分析](https://github.com/plausible/analytics)
-- [短连接](https://github.com/dubinc/dub)
-
 ## OCR
 
 - [awesome-ocr](https://github.com/kba/awesome-ocr)
@@ -57,14 +42,29 @@
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 - [Foocus](https://github.com/lllyasviel/Fooocus)
 - [This repo collects leaked prompts of GPTs.](https://github.com/linexjlin/GPTs)
-
-<!--  -->
 - [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [BasicChatGPT](https://github.com/ynagatomo/BasicChatGPT)
 
-<!--  -->
+## RAG
+
+- [RetrievalTutorials](https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/5_Levels_Of_Text_Splitting.ipynb)
+
+## 题库
+
+- [awesome-interview-questions](https://github.com/pengjinning/awesome-interview-questions)
+
+## 团队协作
+
+- [zulip](https://github.com/zulip/zulip)
+- [mattermost](https://github.com/mattermost/mattermost)
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+
+## 2023-12-31
+
+- [网站分析](https://github.com/plausible/analytics)
+- [短连接](https://github.com/dubinc/dub)
 - [VideoToGif](https://github.com/sindresorhus/Gifski)
 
 ## 时间跟踪
