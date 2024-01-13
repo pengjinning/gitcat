@@ -51,6 +51,13 @@
 
 - [RetrievalTutorials](https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/5_Levels_Of_Text_Splitting.ipynb)
 
+## RPA(Robotic Process Automation)
+
+- [pyautogui](https://github.com/asweigart/pyautogui)
+- [pyperclip](https://github.com/asweigart/pyperclip)
+- [rpaframework](https://github.com/robocorp/rpaframework)
+- [robotframework](https://github.com/robotframework/robotframework)
+
 ## 题库
 
 - [awesome-interview-questions](https://github.com/pengjinning/awesome-interview-questions)
