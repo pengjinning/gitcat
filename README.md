@@ -54,6 +54,8 @@
 ## RPA(Robotic Process Automation)
 
 - [puppeteer](https://github.com/puppeteer/puppeteer)
+- [puppeteer-example](https://developer.chrome.com/docs/puppeteer/examples?hl=zh-cn)
+
 - [pyautogui](https://github.com/asweigart/pyautogui)
 - [pyperclip](https://github.com/asweigart/pyperclip)
 - [rpaframework](https://github.com/robocorp/rpaframework)
