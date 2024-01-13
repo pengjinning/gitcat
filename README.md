@@ -57,6 +57,7 @@
 - [pyperclip](https://github.com/asweigart/pyperclip)
 - [rpaframework](https://github.com/robocorp/rpaframework)
 - [robotframework](https://github.com/robotframework/robotframework)
+- [selenium](https://github.com/SeleniumHQ/selenium)
 
 ## 题库
 
