@@ -58,6 +58,8 @@
 - [rpaframework](https://github.com/robocorp/rpaframework)
 - [robotframework](https://github.com/robotframework/robotframework)
 - [selenium](https://github.com/SeleniumHQ/selenium)
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+- [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)
 
 ## 题库
 
