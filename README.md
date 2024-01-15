@@ -23,6 +23,7 @@
 - [tesseract](https://github.com/tesseract-ocr/tesseract)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [ocr-pwa](https://github.com/plantree/ocr-pwa)
+- [surya](https://github.com/VikParuchuri/surya)
 
 ## 语音识别 tts, stt
 
