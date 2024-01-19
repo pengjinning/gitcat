@@ -14,6 +14,7 @@
 - [LLM AI客服SAAS](https://github.com/pengjinning/OpenChat)
 - [HubSpot Alternative](https://github.com/erxes/erxes)
 - [微软 PromptFlow](https://github.com/pengjinning/promptflow)
+- [outline知识库](https://github.com/outline/outline)
 
 ## OCR
 
