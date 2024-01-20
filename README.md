@@ -176,8 +176,8 @@
 - [captura](https://github.com/MathewSachin/Captura)
 - [screenity](https://github.com/alyssaxuu/screenity)
 - [pear-rec](https://github.com/027xiguapi/pear-rec)
-- [screenshots](https://github.com/nashaofu/screenshots)
-- [electron-capture](https://github.com/xudeming208/electron-capture)
+- [screenshots-截图](https://github.com/nashaofu/screenshots)
+- [electron-capture-截图](https://github.com/xudeming208/electron-capture)
 - [flameshot-截图](https://github.com/flameshot-org/flameshot)
 
 <!-- 投屏 -->
