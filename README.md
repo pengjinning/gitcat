@@ -36,6 +36,8 @@
 - [ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)
 - [离线语音识别-openai whisper](https://github.com/chidiwilliams/buzz)
 - [echo](https://github.com/rerender2021/echo)
+- [edge-tts](https://github.com/rany2/edge-tts)
+- [WhisperSpeech](https://github.com/collabora/WhisperSpeech)
 
 ## prompts && GPT
 
