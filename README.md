@@ -107,6 +107,7 @@
 - [相册照片云同步](https://github.com/immich-app/immich)
 - [习惯养成](https://github.com/xpavle00/Habo)
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## 笔记
 
