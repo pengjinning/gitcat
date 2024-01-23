@@ -15,6 +15,7 @@
 - [HubSpot Alternative](https://github.com/erxes/erxes)
 - [微软 PromptFlow](https://github.com/pengjinning/promptflow)
 - [outline知识库](https://github.com/outline/outline)
+- [papercups-在线客服](https://github.com/papercups-io/papercups)
 
 ## OCR
 
