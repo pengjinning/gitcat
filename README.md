@@ -70,6 +70,7 @@
 ## 题库
 
 - [awesome-interview-questions](https://github.com/pengjinning/awesome-interview-questions)
+- [web-basics](https://github.com/OBKoro1/web-basics)
 
 ## 团队协作
 
