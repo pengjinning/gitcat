@@ -72,6 +72,7 @@
 
 - [awesome-interview-questions](https://github.com/pengjinning/awesome-interview-questions)
 - [web-basics](https://github.com/OBKoro1/web-basics)
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## 团队协作
 
@@ -84,6 +85,7 @@
 - [网站分析](https://github.com/plausible/analytics)
 - [短连接](https://github.com/dubinc/dub)
 - [VideoToGif](https://github.com/sindresorhus/Gifski)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## 时间跟踪
 
