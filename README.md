@@ -16,11 +16,12 @@
 - [微软 PromptFlow](https://github.com/pengjinning/promptflow)
 - [outline知识库](https://github.com/outline/outline)
 - [papercups-在线客服](https://github.com/papercups-io/papercups)
+- [OpenCopilot](https://github.com/openchatai/OpenCopilot)
 
 ## OCR
 
 - [awesome-ocr](https://github.com/kba/awesome-ocr)
-- [离线OCR](https://github.com/hiroi-sora/Umi-OCR)
+- [Umi-OCR-离线OCR](https://github.com/hiroi-sora/Umi-OCR/)
 - [图片文字识别提取](https://github.com/JaidedAI/EasyOCR)
 - [tesseract](https://github.com/tesseract-ocr/tesseract)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
@@ -121,6 +122,7 @@
 - [笔记](https://github.com/zadam/trilium)
 - [笔记](https://github.com/laurent22/joplin)
 - [笔记](https://github.com/glushchenko/fsnotes)
+- [logseg-知识库kb-knowledge-base](https://github.com/logseq/logseq/)
 
 ## 快捷键
 
