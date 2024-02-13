@@ -76,6 +76,7 @@
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
 - [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 ## 团队协作
 
