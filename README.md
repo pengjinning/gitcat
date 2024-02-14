@@ -17,6 +17,8 @@
 - [outline知识库](https://github.com/outline/outline)
 - [papercups-在线客服](https://github.com/papercups-io/papercups)
 - [OpenCopilot](https://github.com/openchatai/OpenCopilot)
+- [Jan-offline llm chat](https://github.com/janhq/jan)
+- [ollama](https://github.com/ollama/ollama)
 
 ## OCR
 
