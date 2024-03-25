@@ -44,6 +44,12 @@
 - [edge-tts](https://github.com/rany2/edge-tts)
 - [WhisperSpeech](https://github.com/collabora/WhisperSpeech)
 
+## 传文件
+
+- [localsend]<https://github.com/localsend/localsend>
+- [pairdrop](https://github.com/schlagmichdoch/pairdrop)
+- [snapdrop](https://github.com/RobinLinus/snapdrop)
+
 ## prompts && GPT
 
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
@@ -187,9 +193,9 @@
 
 - [eSearch](https://github.com/xushengfeng/eSearch)
 - [kooha](https://github.com/SeaDve/Kooha)
-- [cap](https://github.com/cap-so/cap)
+- [cap-屏幕共享](https://github.com/cap-so/cap)
 - [kap](https://github.com/wulkano/Kap)
-- [captura](https://github.com/MathewSachin/Captura)
+<!-- - [captura](https://github.com/MathewSachin/Captura) -->
 - [screenity](https://github.com/alyssaxuu/screenity)
 - [pear-rec](https://github.com/027xiguapi/pear-rec)
 - [screenshots-截图](https://github.com/nashaofu/screenshots)
@@ -243,7 +249,6 @@
 
 ## 2023-10-21
 
-- [跨平台进场通信]<https://github.com/localsend/localsend>
 - [意见反馈]：<https://github.com/logchimp/logchimp>
 
 ## 2023-10-19
