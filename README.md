@@ -5,7 +5,6 @@
 - [typebot.io-可视化构建机器人](https://github.com/baptisteArno/typebot.io)
 - [chatwoot-开源在线客服](https://github.com/chatwoot/chatwoot)
 - [Tiledesk-开源在线客服](https://github.com/Tiledesk)
-- [Formbrick-开源问卷&意见反馈](https://github.com/formbricks/formbricks)
 - [聊天插件](https://github.com/OvidijusParsiunas/deep-chat)
 - [知识库问答系统](https://github.com/danswer-ai/danswer)
 - [拖拽式构建-可视化问答机器人](https://github.com/FlowiseAI/Flowise)
@@ -51,6 +50,11 @@
 - [snapdrop](https://github.com/RobinLinus/snapdrop)
 - [snapdrop-android](https://github.com/fm-sys/snapdrop-android)
 - [snapdrop-electron](https://github.com/JustSch/node-snapdrop-electron)
+
+## 问卷/表单
+
+- [heyform](https://github.com/heyform/heyform)
+- [Formbrick-开源问卷&意见反馈](https://github.com/formbricks/formbricks)
 
 ## prompts && GPT
 
