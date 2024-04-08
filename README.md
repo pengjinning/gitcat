@@ -102,6 +102,7 @@
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [computer-science](https://github.com/ossu/computer-science)
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
 ## 团队协作
 
