@@ -94,6 +94,15 @@
 - [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
+## 免费计算机课程
+
+- [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [computer-science](https://github.com/ossu/computer-science)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
 ## 团队协作
 
 - [zulip](https://github.com/zulip/zulip)
